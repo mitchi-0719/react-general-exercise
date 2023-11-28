@@ -1,0 +1,12 @@
+@charset "utf-8";
+
+
+.image {
+  max-width: 280px;
+  max-height: 250px;
+  margin: auto;
+}
+
+.p {
+  margin: 0;
+}

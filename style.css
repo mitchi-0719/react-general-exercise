@@ -32,7 +32,6 @@ main {
   background-color: yellow;
   flex: 3;
   overflow-y: auto;
-  padding: 5px;
 }
 
 footer {
