@@ -16,24 +16,6 @@ header h1 {
   margin: 0;
 }
 
-.container {
-  display: flex;
-  justify-content: space-between;
-  flex: 1;
-  padding: 24px;
-}
-
-aside {
-  background-color: lightgreen;
-  flex: 1;
-}
-
-main {
-  background-color: yellow;
-  flex: 3;
-  overflow-y: auto;
-}
-
 footer {
   background-color: lightgray;
   display: flex;
